@@ -1,0 +1,5 @@
+//Es necessari d'un espai entre els ":" i el valor desitjat (NO borrar aquesta linea, el program la té en compte)
+Numero de ONTs: 20
+Velocitat de les ONTs: 100
+Numero de iteracions: 5
+Maxim tamany d'un paquet: 3000
