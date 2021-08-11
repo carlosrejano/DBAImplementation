@@ -2,7 +2,7 @@ package DBASim
 import (
 	"sync"
 )
-//Struct that synchronise go routines
+//Struct that synchronise go routines lets go!
 type Monitor struct {
 
 	numberOfOnt     	int
